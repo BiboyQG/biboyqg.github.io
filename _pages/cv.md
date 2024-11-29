@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://biboyqg.github.io/files/CV.pdf)
+You can also checkout my full CV [here](https://biboyqg.github.io/files/CV.pdf).
 ---
 Education
 ======
