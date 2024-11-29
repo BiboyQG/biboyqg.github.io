@@ -7,10 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a senior undergraduate student at University of Illinois at Urbana-Champaign!
+👨🏻‍💻 I'm a senior undergraduate student at University of Illinois at Urbana-Champaign, pursuing a Bachelor of Science in Mathematics with a strong focus on computer science and machine learning systems.
 
-🔬 My research interests are in MLSys, particularly in optimization of LLMs and 3D object detection models!
+🔬 My research interests primarily lie in Machine Learning Systems (MLSys), with particular emphasis on:
+* Optimization of Large Language Models
+* Quantization techniques for 3D object detection models
+* Edge computing and IoT applications
 
-📚 I'm currently working towards my Thesis in Optimization of Quantization on 3D object detection models.
+📚 Currently, I'm working on my thesis focusing on Dynamic and Static Precision Quantization for High-Efficiency 3D Object Detection under the guidance of Prof. Minjia Zhang. Through this research, we've achieved a 35% reduction in inference time while maintaining model accuracy.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🤖 At the National Center for Supercomputing Applications (NCSA), I'm working with Prof. Kevin Chang on developing advanced assessment frameworks using Large Language Models, exploring ways to make AI systems more efficient and interpretable.
+
+🌟 Some of my notable projects include:
+* Developing an autonomous marking system (LLMarking) that achieves over 90% F1 score
+* Creating an IoT-enabled self-driving car prototype
+* Implementing an advanced home security system with facial recognition
+
+📽️ I'm passionate about sharing knowledge and helping others in their Machine Learning journey. As a Course Assistant for CS 409 at UIUC, I develop tools and resources to enhance the learning experience of fellow students.
+
+🎓 Prior to UIUC, I studied Computer Science at Xi'an Jiaotong Liverpool University, where I maintained a GPA of 3.92/4.0 and received multiple academic excellence awards.
+
+Feel free to explore my projects and research work, or reach out if you'd like to collaborate!
