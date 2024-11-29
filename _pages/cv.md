@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](https://biboyqg.github.io/files/CV.pdf)
+---
 Education
 ======
 * B.S. in Mathematics, University of Illinois Urbana-Champaign (UIUC), Fall 2023 - Fall 2025 (GPA: 3.80/4.0)
@@ -103,5 +105,3 @@ Skills
   * bash
   * R Studio
   * LaTeX
-
-You can download my full CV [here](https://biboyqg.github.io/files/CV.pdf)
