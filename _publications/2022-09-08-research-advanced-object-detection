@@ -2,7 +2,7 @@
 title: "Research Advanced in the Object Detection Based on Deep Learning"
 collection: publications
 category: manuscripts
-permalink: 'https://ieeexplore.ieee.org/document/10091401'
+permalink: /publicaitons/2022-09-08-research-advanced-object-detection
 excerpt: 'This paper provides a comprehensive evaluation of object detection research advances, categorizing algorithms into traditional detection algorithms, anchor-based and anchor-free detection algorithms, with experimental analysis on common datasets.'
 date: 2022-09-08
 venue: '2022 International Conference on Applied Physics and Computing (ICAPC)'
