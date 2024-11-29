@@ -21,12 +21,12 @@ repository               : "biboyqg/biboyqg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2.png"
   name             : "Banghao Chi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Passionate life learner"
   location         : "Urbana, IL"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         : "U of I at Urbana-Champaign"
   uri              : # URL
   email            : "banghao.ch@gmail/banghao2@illinois.edu" 
 
