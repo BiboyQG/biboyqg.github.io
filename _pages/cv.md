@@ -11,54 +11,94 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics, University of Illinois Urbana-Champaign (UIUC), Fall 2023 - Fall 2025 (GPA: 3.80/4.0)
+  * Core Modules: Artificial Intelligence, Internet of Things, Numerical Methods I, System Programming, Computer Architecture, Data Structures
+* Computer Science, Xi'an Jiaotong Liverpool University (XJTLU), Fall 2021 - Spring 2023 (GPA: 3.92/4.0)
+  * Core Modules: Database Systems, Algorithms, Statistics and Probability, Calculus, Linear Algebra
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dynamic and Static Precision Quantization for 3D Object Detection (Mar 2024 - Present)
+  * University of Illinois Urbana-Champaign
+  * Advisor: Minjia Zhang
+  * Duties:
+    * Proposed dynamic and static post-training quantization techniques
+    * Implemented progressive quantization
+    * Conducted quantization sensitivity analysis
+    * Applied SmoothQuant for extreme outlier resolution
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern at National Center for Supercomputing Applications (Aug 2024 - Present)
+  * University of Illinois Urbana-Champaign
+  * Advisor: Kevin Chang
+  * Duties:
+    * Developed hierarchical assessment framework
+    * Designed dynamic example updating mechanism
+    * Conducted model finetuning and evaluation
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LLMarking: Auto Marking System using LLM (Mar 2024 - Sep 2024)
+  * Xi'an Jiaotong Liverpool University
+  * Advisor: Xiaohui Zhu
+  * Duties:
+    * Constructed ASAG pipeline
+    * Implemented and deployed models
+    * Conducted model verification
+    * Designed dynamic system
+
+* IoT Projects (2023-2024)
+  * Self-Driving Car Prototype Design
+  * Home Security Camera
+  * Real-time Object Recognition in Chess
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Chi, B. (2022). Research Advanced in the Object Detection Based on Deep Learning. 2022 International Conference on Applied Physics and Computing (ICAPC).
+
+Work Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Course Assistant (Fall 2024 - Present)
+  * CS 409 The Art of Web Development, UIUC
+  * Duties:
+    * Developed Late-days interface
+    * Implemented autonomous grader
+    * Conducted grading and office hours
+
+* Teaching Assistant (Fall 2021 - Summer 2022)
+  * Calculus Course, XJTLU
+  * Duties:
+    * Held lectures and created quizzes
+    * Assisted students with course material
+
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2024: University Dean's List (top 20% excellence), UIUC
+* 2023: University Academic Excellence Award (top 1% excellence), XJTLU
+* 2022: Summer Undergraduate Research Fellow, XJTLU
+* 2022: University Academic Achievement Award (top 2% excellence), XJTLU
+* 2022: 2nd Prize in Asia and Pacific Mathematical Contest in Modeling
+* 2021: 2nd Prize of FLTRP Cup National English Speaking Contest
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming
+  * Golang (Chi)
+  * Python (Pytorch, Tensorflow, numpy, pandas, Django, FastAPI)
+  * C++
+  * Java
+  * Javascript
+  * R
+  * SQL, NoSQL
+
+* Tools
+  * ONNX
+  * ROS2
+  * Kubernetes
+  * Docker
+  * Nginx
+  * Redis
+  * RabbitMQ
+  * React
+  * Spring
+  * Unreal Engine
+  * bash
+  * R Studio
+  * LaTeX
