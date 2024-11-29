@@ -20,7 +20,7 @@ Research Experience
 ======
 * Dynamic and Static Precision Quantization for 3D Object Detection (Mar 2024 - Present)
   * University of Illinois Urbana-Champaign
-  * Advisor: Minjia Zhang
+  * Advisor: [Minjia Zhang](https://minjiazhang.github.io/)
   * Duties:
     * Proposed dynamic and static post-training quantization techniques
     * Implemented progressive quantization
@@ -29,7 +29,7 @@ Research Experience
 
 * Research Intern at National Center for Supercomputing Applications (Aug 2024 - Present)
   * University of Illinois Urbana-Champaign
-  * Advisor: Kevin Chang
+  * Advisor: [Kevin Chang](https://siebelschool.illinois.edu/about/people/all-faculty/kcchang)
   * Duties:
     * Developed hierarchical assessment framework
     * Designed dynamic example updating mechanism
@@ -37,7 +37,7 @@ Research Experience
 
 * LLMarking: Auto Marking System using LLM (Mar 2024 - Sep 2024)
   * Xi'an Jiaotong Liverpool University
-  * Advisor: Xiaohui Zhu
+  * Advisor: [Xiaohui Zhu](https://scholar.xjtlu.edu.cn/en/persons/XiaohuiZhu)
   * Duties:
     * Constructed ASAG pipeline
     * Implemented and deployed models
@@ -45,6 +45,7 @@ Research Experience
     * Designed dynamic system
 
 * IoT Projects (2023-2024)
+  * Advisor: [Matthew Caesar](https://caesar.cs.illinois.edu/)
   * Self-Driving Car Prototype Design
   * Home Security Camera
   * Real-time Object Recognition in Chess
