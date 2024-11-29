@@ -6,7 +6,7 @@ permalink: /publication/2022-09-08-research-advanced-object-detection
 excerpt: 'This paper provides a comprehensive evaluation of object detection research advances, categorizing algorithms into traditional detection algorithms, anchor-based and anchor-free detection algorithms, with experimental analysis on common datasets.'
 date: 2022-09-08
 venue: '2022 International Conference on Applied Physics and Computing (ICAPC)'
-paperurl: 'https://ieeexplore.ieee.org/document/10091401'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091401'
 citation: 'Chi, B. (2022). &quot;Research Advanced in the Object Detection Based on Deep Learning.&quot; <i>2022 International Conference on Applied Physics and Computing (ICAPC)</i>. DOI: 10.1109/ICAPC57304.2022.00092'
 ---
 
