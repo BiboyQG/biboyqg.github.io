@@ -1,0 +1,29 @@
+---
+title: "Research Advanced in the Object Detection Based on Deep Learning"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-09-08-research-advanced-object-detection
+excerpt: 'This paper provides a comprehensive evaluation of object detection research advances, categorizing algorithms into traditional detection algorithms, anchor-based and anchor-free detection algorithms, with experimental analysis on common datasets.'
+date: 2022-09-08
+venue: '2022 International Conference on Applied Physics and Computing (ICAPC)'
+paperurl: 'https://ieeexplore.ieee.org/document/10091401'
+citation: 'Chi, B. (2022). &quot;Research Advanced in the Object Detection Based on Deep Learning.&quot; <i>2022 International Conference on Applied Physics and Computing (ICAPC)</i>. DOI: 10.1109/ICAPC57304.2022.00092'
+---
+
+This paper presents a comprehensive analysis of the evolution and current state of object detection algorithms in computer vision. The research focuses on three main frameworks:
+
+1. Traditional detection algorithms
+2. Anchor-based detection algorithms
+3. Anchor-free detection algorithms
+
+The study highlights how deep learning has revolutionized object detection, moving from traditional methods to more advanced techniques based on deep neural networks (DNN). Key contributions include:
+
+* Detailed categorization and analysis of existing object detection frameworks
+* Comparison of two-stage and one-stage detectors
+* Analysis of anchor-based vs anchor-free detection methods
+* Experimental evaluation on common datasets
+* Discussion of current challenges and future research directions
+
+The research demonstrates how modern deep learning-based approaches have integrated feature extraction, selection, and classification into single models, achieving end-to-end performance optimization. This has led to significant improvements in both accuracy and efficiency compared to traditional detection schemes.
+
+The paper concludes with insights into potential future developments in the field of object detection, making it valuable for researchers and practitioners working in computer vision and deep learning applications.
