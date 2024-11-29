@@ -103,3 +103,5 @@ Skills
   * bash
   * R Studio
   * LaTeX
+
+You can download my full CV [here](https://biboyqg.github.io/files/CV.pdf)
