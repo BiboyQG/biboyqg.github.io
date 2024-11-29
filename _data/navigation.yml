@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,10 +18,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://banghao.live/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
