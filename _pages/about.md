@@ -14,9 +14,9 @@ redirect_from:
 * Quantization techniques for 3D object detection models
 * Edge computing and IoT applications
 
-📚 Currently, I'm working on my thesis focusing on Dynamic and Static Precision Quantization for High-Efficiency 3D Object Detection under the guidance of Prof. Minjia Zhang. Through this research, we've achieved a 35% reduction in inference time while maintaining model accuracy.
+📚 Currently, I'm working on my thesis focusing on Dynamic and Static Precision Quantization for High-Efficiency 3D Object Detection under the guidance of Prof. [Minjia Zhang](https://minjiazhang.github.io/). Through this research, we've achieved a 35% reduction in inference time while maintaining model accuracy.
 
-🤖 At the National Center for Supercomputing Applications (NCSA), I'm working with Prof. Kevin Chang on developing advanced assessment frameworks using Large Language Models, exploring ways to make AI systems more efficient and interpretable.
+🤖 At the National Center for Supercomputing Applications (NCSA), I'm working with Dr. [Kevin Chang](https://siebelschool.illinois.edu/about/people/all-faculty/kcchang) on developing advanced assessment frameworks using Large Language Models, exploring ways to make AI systems more efficient and interpretable.
 
 🌟 Some of my notable projects include:
 * Developing an autonomous marking system (LLMarking) that achieves over 90% F1 score
@@ -25,6 +25,6 @@ redirect_from:
 
 📽️ I'm passionate about sharing knowledge and helping others in their Machine Learning journey. As a Course Assistant for CS 409 at UIUC, I develop tools and resources to enhance the learning experience of fellow students.
 
-🎓 Prior to UIUC, I studied Computer Science at Xi'an Jiaotong Liverpool University, where I maintained a GPA of 3.92/4.0 and received multiple academic excellence awards.
+🎓 Prior to UIUC, I studied Computer Science at Xi'an Jiaotong Liverpool University, where I maintained a GPA of 3.92/4.0 and received multiple academic excellence awards. During my time there, I worked with Prof. [Xiaohui Zhu](https://scholar.xjtlu.edu.cn/en/persons/XiaohuiZhu) on developing LLMarking, an innovative automatic short answer grading system. This project showcased the practical applications of Large Language Models in education, achieving impressive F1 scores of 90.5% and 86.1% on computer science and finance datasets respectively.
 
 Feel free to explore my projects and research work, or reach out if you'd like to collaborate!
