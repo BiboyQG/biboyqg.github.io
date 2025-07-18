@@ -7,7 +7,7 @@ categories: publications
 author: "Banghao Chi"
 authors: "<strong>Banghao Chi</strong>"
 venue: "International Conference on Applied Physics and Computing (ICAPC)"
-paper: /pdfs/object_detection.pdf
+paper: https://ieeexplore.ieee.org/document/10091401
 ---
 
 We provide a comprehensive review and experimental analysis of recent advances in object detection based on deep learning, categorizing methods into traditional, anchor-based, and anchor-free frameworks, and highlighting their performance and future challenges.
