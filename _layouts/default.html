@@ -326,7 +326,13 @@
                     "
                   >
                     <span>
-                      • {{ experience.title }}{% if experience.organization %} at
+                      • {{ experience.title }}{% if experience.course_code %} for
+                      {% if experience.course_url %}
+                      <a href="{{ experience.course_url }}">{{ experience.course_code }}</a>
+                      {% else %}
+                      {{ experience.course_code }}
+                      {% endif %}
+                      {% elsif experience.organization %} at
                       {% if experience.organization_url %}
                       <a href="{{ experience.organization_url }}">{{ experience.organization }}</a>
                       {% else %}
