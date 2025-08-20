@@ -13,11 +13,13 @@
   period: "Fall 2024 - Spring 2025"
 
 - title: "Course Assistant"
-  organization: "CS 409"
-  organization_url: "https://uiucwp.gitlab.io/fa-24/"
+  course_code: "CS 409"
+  course_url: "https://uiucwp.gitlab.io/fa-24/"
   location: "UIUC"
   period: "Fall 2024 - Spring 2025"
 
-- title: "Teaching Assistant for Calculus"
+- title: "Teaching Assistant"
+  course_code: "MTH 013"
+  course_url: "https://modules.xjtlu.edu.cn/mod?mod_code=MTH013&psl_code=SEM1"
   location: "XJTLU"
   period: "Fall 2021 - Summer 2022"
