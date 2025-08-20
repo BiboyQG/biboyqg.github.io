@@ -27,6 +27,9 @@ This is a Jekyll-based static site designed specifically for academic researcher
 ## 📁 Project Structure
 
 ```
+├── _data/              # YAML data files for content management
+│   ├── work_experience.yml  # Work experience and positions
+│   └── awards.yml           # Awards and honors
 ├── _layouts/           # Jekyll layout templates
 ├── _posts/            # Research publications and blog posts
 ├── _sass/             # Sass stylesheets and components
@@ -100,6 +103,39 @@ code: https://github.com/your-username/your-repo
 Brief description or abstract of your paper...
 ```
 
+#### Adding Work Experience
+
+Add entries to `_data/work_experience.yml`:
+
+**For Academic/Research Positions:**
+```yaml
+- title: "Research Intern"
+  organization: "Organization Name"
+  organization_short: "SHORT"  # Optional abbreviation
+  organization_url: "https://org.edu/"  # Optional
+  location: "City/University"
+  period: "Fall 2024 - Spring 2025"
+```
+
+**For Course-Related Positions:**
+```yaml
+- title: "Teaching Assistant"
+  course_code: "CS 357"
+  course_url: "https://course-website.edu/"  # Optional
+  location: "University"
+  period: "Fall 2024 - Spring 2025"
+```
+
+#### Adding Awards & Honors
+
+Add entries to `_data/awards.yml`:
+
+```yaml
+- year: "2025"
+  award: "Award Name (description)"
+  institution: "Institution Name"
+```
+
 #### Adding Images
 
 1. Add full-size images to the `images/` directory
@@ -139,6 +175,14 @@ The site supports multiple post categories:
 
 ## 🔧 Technical Features
 
+### Data-Driven Content Management
+
+The site uses Jekyll's `_data` directory for managing structured content:
+
+- **Work Experience**: Automatically renders different formats for academic positions ("Research Intern at NCSA") vs. courses ("Teaching Assistant for CS 357")
+- **Awards & Honors**: Table format with year, award, and institution columns
+- **Easy Updates**: Modify YAML files instead of editing HTML templates
+
 ### Automatic Thumbnail Generation
 
 The `_make_thumbnails.sh` script automatically generates optimized thumbnails for all images, improving page load times while maintaining visual quality.
@@ -159,10 +203,17 @@ The `_make_thumbnails.sh` script automatically generates optimized thumbnails fo
 
 ## 📝 Content Guidelines
 
+### Research Publications
 - **Images**: Use high-quality images for research figures and project screenshots
 - **PDFs**: Store papers and documents in the `pdfs/` directory
 - **Code Links**: Include GitHub repositories for reproducible research
 - **Abstracts**: Keep post descriptions concise but informative
+
+### Work Experience & Awards
+- **Consistency**: Use consistent date formats (e.g., "Fall 2024 - Spring 2025")
+- **URLs**: Include relevant links to organizations, courses, or institutions when available
+- **Abbreviations**: Use `organization_short` for commonly abbreviated organizations (e.g., "NCSA", "SSAIL")
+- **Course Codes**: Use standard course numbering (e.g., "CS 357", "CS 409")
 
 ## 🤝 Contributing
 
