@@ -5,7 +5,7 @@ date: 2025-04-13 22:21:59 +00:00
 image: /images/llmarking.png
 categories: publications
 author: "Banghao Chi"
-authors: "Hanling Wang, <strong>Banghao Chi</strong>, Yufei Wu, et. al."
+authors: "Hanling Wang*, <strong>Banghao Chi*</strong>, Yufei Wu*, et. al."
 venue: "Association for Computing Machinery Learning@Scale (ACM L@S)"
 paper: https://doi.org/10.1145/3698205.3729551
 code: https://github.com/BiboyQG/LLMarking
