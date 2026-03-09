@@ -99,6 +99,67 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+.open-source-project-image-wrap {
+  width: 100%;
+  max-width: 140px;
+  margin: 0 auto;
+  padding: 18px;
+  border: 1px solid #e7edf5;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+  box-sizing: border-box;
+}
+
+.open-source-project-image {
+  display: block;
+  width: 100%;
+  max-height: 100px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.open-source-project-repo {
+  color: #57606a;
+}
+
+.open-source-project-stats {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.github-stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #24292f;
+  font-size: 13px;
+}
+
+.github-stat svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
+
+.github-stat [data-stat] {
+  min-width: 2em;
+}
+
+@media only screen and (max-width: 640px) {
+  .open-source-project-image-wrap {
+    max-width: 120px;
+    padding: 14px;
+  }
+
+  .open-source-project-stats {
+    gap: 12px;
+    margin-top: 8px;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";

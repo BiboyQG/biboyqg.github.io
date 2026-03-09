@@ -1,0 +1,10 @@
+- title: WeChat-MCP
+  repo: BiboyQG/WeChat-MCP
+  url: https://github.com/BiboyQG/WeChat-MCP
+  image: https://cdn-icons-png.flaticon.com/512/3938/3938101.png
+  description: An MCP server for macOS that lets Claude, ChatGPT, and other assistants read messages, send replies, and automate core WeChat workflows.
+- title: bob-cosyvoice
+  repo: BiboyQG/bob-cosyvoice
+  url: https://github.com/BiboyQG/bob-cosyvoice
+  image: https://bobtranslate.com/images/hero.png
+  description: A Bob plugin that connects to a self-hosted CosyVoice service so Bob can generate text-to-speech directly from translated text.
