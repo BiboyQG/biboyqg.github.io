@@ -12,4 +12,4 @@ venue: "In submission"
 # poster: https://drive.google.com/file/d/1xbt0JpxOxuztEoUPi2vq6u0BzlNOKq7P/view?usp=drive_link
 ---
 
-We present Spreadsheet-RL, a reinforcement learning (RL) fine-tuning framework designed to build specialized spreadsheet agents capable of managing complex tasks. We evaluate Spreadsheet-RL on SpreadSheetBench and domain-specific benchmarks, demonstrating that it helps open-source models improve by 40%, and approach weak commercial model performance, reaching the performance of OpenAI o3.
+We present Spreadsheet-RL, a reinforcement learning (RL) fine-tuning framework designed to build specialized spreadsheet agents capable of managing complex tasks. We evaluate Spreadsheet-RL on SpreadSheetBench and domain-specific benchmarks, demonstrating that it helps open-source models improve significantly from 20.2% to 48.7%, outperforming several proprietary baselines reported in prior work.
