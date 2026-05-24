@@ -1,4 +1,11 @@
 - title: "Teaching Assistant"
+  course_code: "CS 519"
+  course_name: "Scientific Visualization"
+  course_url: "https://courses.illinois.edu/schedule/2026/summer/CS/519"
+  location: "UIUC"
+  period: "Summer 2026"
+
+- title: "Teaching Assistant"
   course_code: "CS 357"
   course_url: "https://cs357.cs.illinois.edu/"
   location: "UIUC"

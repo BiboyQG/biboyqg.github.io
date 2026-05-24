@@ -192,7 +192,8 @@
                 <a href="{{post.paper}}">paper</a> / {% endif %} {% if
                 post.video %} <a href="{{post.video}}">video</a> / {% endif %}
                 {% if post.code %} <a href="{{post.code}}">code</a> / {% endif
-                %} {% if post.poster %} <a href="{{post.poster}}">poster</a> /
+                %} {% if post.dataset %} <a href="{{post.dataset}}">data</a> /
+                {% endif %} {% if post.poster %} <a href="{{post.poster}}">poster</a> /
                 {% endif %} {% if post.slides %}
                 <a href="{{post.slides}}">slides</a> / {% endif %} {% if
                 post.website %} <a href="{{post.website}}">website</a> / {%
@@ -411,9 +412,9 @@
                     <span>
                       • {{ experience.title }}{% if experience.course_code %} for
                       {% if experience.course_url %}
-                      <a href="{{ experience.course_url }}">{{ experience.course_code }}</a>
+                      <a href="{{ experience.course_url }}">{{ experience.course_code }}{% if experience.course_name %}: {{ experience.course_name }}{% endif %}</a>
                       {% else %}
-                      {{ experience.course_code }}
+                      {{ experience.course_code }}{% if experience.course_name %}: {{ experience.course_name }}{% endif %}
                       {% endif %}
                       {% elsif experience.organization %} at
                       {% if experience.organization_url %}
