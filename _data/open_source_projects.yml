@@ -8,3 +8,8 @@
   url: https://github.com/BiboyQG/bob-cosyvoice
   image: https://bobtranslate.com/images/hero.png
   description: A Bob plugin that connects to a self-hosted CosyVoice service so Bob can generate text-to-speech directly from translated text.
+- title: Spreadsheet-RL
+  repo: Spreadsheet-RL/Spreadsheet-RL
+  url: https://github.com/Spreadsheet-RL/Spreadsheet-RL
+  image: /images/spreadsheet-rl.png
+  description: An end-to-end reinforcement learning post-training framework for spreadsheet agents in a realistic Microsoft Excel environment.
