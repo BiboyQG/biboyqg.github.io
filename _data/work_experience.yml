@@ -7,6 +7,7 @@
 
 - title: "Teaching Assistant"
   course_code: "CS 357"
+  course_name: "Numerical Methods I"
   course_url: "https://cs357.cs.illinois.edu/"
   location: "UIUC"
   period: "Fall 2025 - Spring 2026"
@@ -27,12 +28,14 @@
 
 - title: "Course Assistant"
   course_code: "CS 409"
+  course_name: "The Art of Web Programming"
   course_url: "https://uiucwp.gitlab.io/fa-24/"
   location: "UIUC"
   period: "Fall 2024 - Spring 2025"
 
 - title: "Teaching Assistant"
   course_code: "MTH 013"
+  course_name: "Calculus (Science and Engineering)"
   course_url: "https://modules.xjtlu.edu.cn/mod?mod_code=MTH013&psl_code=SEM1"
   location: "XJTLU"
   period: "Fall 2021 - Summer 2022"
